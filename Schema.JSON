@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",    // Specifies the JSON Schema version
+  "type": "object",                       // Indicates that the data is a JSON object (key-value pairs)
+  "properties": {         
+    "name": { "type": "string" },       // The "name" property should be a string (text)
+    "age": { "type": "integer" }       // The "age" property should be an integer (whole number)
+  },
+  "required": ["name", "age"]         //Specifies that both "name" and "age" are required properties
+}
