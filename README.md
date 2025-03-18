@@ -28,9 +28,9 @@ Explore the files in this repository to learn about JSON 🚀. You can:
 
 ```json
 {
-  "name": "John Doe",
-  "age": 30,
-  "city": "New York"
+  "name": "Hazi Taoshif",
+  "age": 20,
+  "city": "Bangladesh"
 }
 ```
 
