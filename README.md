@@ -33,7 +33,7 @@ Explore the files in this repository to learn about JSON 🚀. You can:
   "city": "Bangladesh"
 }
 ```
-## Online JSON Viewer, JSON Beautifier and Formatter to beautify and tree view of JSON data - https://codebeautify.org/jsonviewer 🔗
+## 🔗 Online JSON Viewer, JSON Beautifier and Formatter to beautify and tree view of JSON data - https://codebeautify.org/jsonviewer 🔗
 
 ## 🤝 Contributing
 Feel free to contribute by:
