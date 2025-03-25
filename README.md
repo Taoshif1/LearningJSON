@@ -10,11 +10,11 @@ JSON (JavaScript Object Notation) is a lightweight data-interchange format 🔄.
 
 This repository aims to provide:
 
-* **JSON Syntax Examples 📝:** Demonstrations of valid JSON structures.
-* **JSON Usage Examples 💡:** Practical examples of how JSON is used in different contexts.
-* **JSON Schema Examples 🛡️:** Examples for defining and validating JSON structures.
-* **Explanations and Comments 💬:** Clear explanations within examples to enhance understanding.
-* **Potentially, example JSON data files 🧪:** Files to test against various JSON schemas.
+* **JSON Syntax Examples:** Demonstrations of valid JSON structures📝
+* **JSON Usage Examples:** Practical examples of how JSON is used in different contexts💡
+* **JSON Schema Examples:** Examples for defining and validating JSON structures🛡️
+* **Explanations and Comments:** Clear explanations within examples to enhance understanding💬
+* **Potentially, example JSON data files:** Files to test against various JSON schemas🧪
 
 ## 🏁 Getting Started
 
