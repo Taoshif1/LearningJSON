@@ -20,9 +20,9 @@ This repository aims to provide:
 
 Explore the files in this repository to learn about JSON 🚀. You can:
 
-* Read the example JSON files to understand the syntax 📖.
-* Examine the JSON Schema files to learn how to validate JSON data 🛡️.
-* Experiment with the examples and modify them to deepen your understanding 🛠️.
+* Read the example JSON files to understand the syntax 📖
+* Examine the JSON Schema files to learn how to validate JSON data 🛡️
+* Experiment with the examples and modify them to deepen your understanding 🛠️
 
 ## 📝 Example: Basic JSON Object
 
