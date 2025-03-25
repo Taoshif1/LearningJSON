@@ -1,0 +1,10 @@
+{
+  "name": "Gazi",
+  "age": 20,
+  "married": false,
+  "children": ["Taoshif", "Tansin"],
+  "address": {
+    "street": "123 Main St",
+    "city": "New Dhaka"
+  }
+}
