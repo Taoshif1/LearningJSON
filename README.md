@@ -42,4 +42,4 @@ Feel free to contribute by:
   - Updating the README 📝✨
   - Providing constructive feedback and suggestions 🗣️
 
-# If this response was helpful, please add a star to the repository. ⭐
+# If this resource was helpful, please add a star to the repository. ⭐
