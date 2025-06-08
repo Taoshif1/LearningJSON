@@ -1,6 +1,6 @@
 # 📚 LearningJSON 🚀
 
-This repository is a resource for learning and practicing JSON (JavaScript Object Notation) 📝. It covers various aspects of JSON, including its syntax, usage and related technologies like JSON Schema 🛡️.
+This repository is a resource for learning and practicing JSON (JavaScript Object Notation). It covers various aspects of JSON, including its syntax, usage and related technologies like JSON Schema 🛡️.
 
 ## 🤔 What is JSON?
 
