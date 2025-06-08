@@ -1,5 +1,5 @@
 # 📚 LearningJSON 🚀
-[![Status: Learning Completed (for now)](https://img.shields.io/badge/Status-Learning%20Completed%20(for%20now!)-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
+[![Status: Learning Completed (for now)](https://img.shields.io/badge/Status-Learning%20Completed%20-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
 
 This repository is a resource for learning and practicing JSON (JavaScript Object Notation). It covers various aspects of JSON, including its syntax, usage and related technologies like JSON Schema 🛡️.
 
