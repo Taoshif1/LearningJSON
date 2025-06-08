@@ -4,7 +4,7 @@ This repository is a resource for learning and practicing JSON (JavaScript Objec
 
 ## 🤔 What is JSON?
 
-JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write and easy for machines to parse and generate. JSON is commonly used for transmitting data between a server and a web application and it's widely used in APIs 📡 and configuration files.⚙️
+JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write and easy for machines to parse and generate. JSON is commonly used for transmitting data between a server and a web application and it's widely used in APIs and configuration files.⚙️
 
 ## 🧐 What will you find here?
 
